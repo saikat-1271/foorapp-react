@@ -1,4 +1,4 @@
-export const RestaurantCard = () => {
+export const RestaurantCard = (data) => {
   return (
     <div className=" border-x-2 max-w-xs rounded-xl overflow-hidden shadow-md border hover:shadow-lg transition-shadow duration-300">
       <img
